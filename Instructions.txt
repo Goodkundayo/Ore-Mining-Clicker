@@ -1,0 +1,32 @@
+How to do it
+Press the flag, space bar, click on the ore in the middle!
+Click on the villager to buy various things. Make the hopper automatically collect coins!
+Buy the ore and press the C button on the bottom left to change it
+
+Please tell us what features you would like to add
+Important: Please tell us what you would like to improve.
+We will definitely improve it.
+It's fine if there is no problem.
+
+This game was created using Scratch
+https://scratch.mit.edu/
+
+There is a new version of this game. It is ver.5
+https://scratch.mit.edu/projects/941003764/
+
+If you want to play the latest version as soon as possible, we recommend playing it on Scratch.
+Github is https://scratch.mit.edu/projects/941003764/ This is the packaged version of this game.
+
+Advantages of playing with Scratch
+You can play the latest version as soon as it's released
+You can modify it
+Disadvantages of playing with Scratch
+It can be slow
+You have to search to find the game (annoying)
+You can't pause the game
+Advantages of the packaged version
+You can play as soon as you download it
+You can pause the game
+Lightweight
+Disadvantages of the packaged version
+You can't modify it
