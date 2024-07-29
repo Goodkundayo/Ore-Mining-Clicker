@@ -13,3 +13,5 @@ We plan to add various functions in the future.
 PC compatible
 
 Does not work on touch screens such as smartphones
+
+日本語バージョンhttps://github.com/Goodkundayo/kousekisaikutuclicccar
